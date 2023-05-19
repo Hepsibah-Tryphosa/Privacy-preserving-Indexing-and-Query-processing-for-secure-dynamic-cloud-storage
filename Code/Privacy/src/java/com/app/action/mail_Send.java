@@ -59,6 +59,6 @@ public class mail_Send {
     }
 
     public static void main(String arg[]) {
-        // sendMail("sssssssssss");
+       mail_Send.sendMail("Test message ", "Test Sub", "hepsibahdatapoint@gmail.com", "hepsibahdatapoint@gmail.com");
     } 
 }
